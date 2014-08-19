@@ -23,12 +23,23 @@ webloc() {
 }
 ```
 
-and use
+or 
 
-`webloc FILENAME WEBLINK` 
+You can run `. ./install-zsh.sh` or `. ./install-bash.sh` to install this. :D
+
+
+
+### How to use
+
+
+```
+webloc FILENAME WEBLINK
+``` 
 
 
 ### Example
 
-`webloc google http://google.tw`
+```
+webloc google http://google.tw
+```
 
